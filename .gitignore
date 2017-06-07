@@ -30,3 +30,7 @@ META-INF/
 
 ##Mac noise
 .DS_Store
+
+##local configuration
+local.cfg
+web.xml
